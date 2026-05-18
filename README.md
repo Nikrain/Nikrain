@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi, I'm Nick
 
-<!--
-**Nikrain/Nikrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. in RF & Electronic Systems Design  
+🔧 B.Sc. in Circuit Engineering & Radio Electronics  
+Previously worked in RF equipment setup & calibration
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working with
+
+- CAD modeling — Creo Parametric, learning SolidWorks / Kompas-3D
+- 3D printing — functional & replacement parts
+- Learning C++ and automation
+- Designing for real manufacturing and FDM printing
+
+---
+
+### Projects
+
+- 🌡️ PCB thermal analysis in Creo
+- 🔌 Kärcher filter adapter for Corvette 364 vacuum —
+  reverse engineered, 3D printed, works on first try
+
+---
+
+> Hands-on engineer. If it can't be bought — I design it.
+
+📫 [contact]
